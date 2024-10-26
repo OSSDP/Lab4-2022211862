@@ -20,7 +20,7 @@ public class L2022211862_6_Test {
      */
     @Test
     public void testPeopleIndexes_withSubset() {
-        //Solution6 solution = new Solution6();
+        Solution6 solution = new Solution6();
         List<List<String>> favoriteCompanies = Arrays.asList(
                 Arrays.asList("leetcode", "google", "facebook"),
                 Arrays.asList("google", "microsoft"),
