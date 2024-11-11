@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
-
+//在dev分支上，加一行注释 以便形成与main分支的差异
 class Solution6 {
     Set<String>[] s = new Set[105];
 
